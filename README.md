@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 💡 Interested in **Software Development & Problem Solving**
 - 🤝 Open to collaborating on interesting projects
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **krishikachandel25@gmail.com**
 
 ---
 
