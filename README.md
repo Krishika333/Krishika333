@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishika</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Programming;Always+Learning+Something+New;Building+Skills+One+Commit+at+a+Time" alt="Typing SVG" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Student
